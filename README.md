@@ -4,6 +4,8 @@
 
 ![Screenshot of Formatter](./screenshot.png)
 
+[This might explain things](https://twitter.com/klamping/status/699996473027465216)
+
 ## Install
 
 ```
@@ -21,3 +23,5 @@ $ eslint --format=node_modules/eslint-formatter-tradition file.js
 ## License
 
 MIT © [Kevin Lamping](https://twitter.com/klamping)
+
+> A fiddler on the roof. Sounds crazy, no? But here, in our little village of Anatevka, you might say every one of us is a fiddler on the roof trying to scratch out a pleasant, simple tune without breaking his neck. It isn't easy. You may ask 'Why do we stay up there if it's so dangerous?' Well, we stay because Anatevka is our home. And how do we keep our balance? That I can tell you in one word: tradition!
