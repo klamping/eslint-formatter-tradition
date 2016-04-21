@@ -1,0 +1,23 @@
+{
+  "name": "eslint-formatter-tradition",
+  "version": "0.0.1",
+  "description": "ESLint for Fiddler on the Roof fans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klamping/eslint-formatter-tradition.git"
+  },
+  "keywords": [
+    "eslint",
+    "formatter"
+  ],
+  "author": "Kevin Lamping",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klamping/eslint-formatter-tradition/issues"
+  },
+  "homepage": "https://github.com/klamping/eslint-formatter-tradition#readme"
+}
