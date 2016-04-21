@@ -2,6 +2,8 @@
 
 > Because of ESLint, we've kept our balance for many, many years. Here in Anatevka, we have rules for everything: how to indent, how to eval... how to whitespace... how to use semicolons. For instance, we always use our variables, and always wear a little parentheses that shows our constant devotion to Functions. You may ask, "How did this tradition get started?" I'll tell you!
 
+![Screenshot of Formatter](./screenshot.png)
+
 ## Install
 
 ```

@@ -4,7 +4,7 @@
   "description": "ESLint for Fiddler on the Roof fans",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint --format=./index.js test.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/klamping/eslint-formatter-tradition/issues"
   },
-  "homepage": "https://github.com/klamping/eslint-formatter-tradition#readme"
+  "homepage": "https://github.com/klamping/eslint-formatter-tradition#readme",
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
 }
